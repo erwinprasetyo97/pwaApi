@@ -1,0 +1,31 @@
+# pwaApi
+
+{
+"product":
+
+[
+
+{"id":1,"name":"Yellow-crowned night heron","category":"Goldenrod"},
+{"id":2,"name":"Crane, sarus","category":"Aquamarine"},
+{"id":3,"name":"Shrew, mandras tree","category":"Yellow"},
+{"id":4,"name":"Royal tern","category":"Orange"},
+{"id":5,"name":"Stilt, black-winged","category":"Orange"},
+{"id":6,"name":"Bettong, brush-tailed","category":"Aquamarine"},
+{"id":7,"name":"Goanna lizard","category":"Red"},
+{"id":8,"name":"Skimmer, four-spotted","category":"Red"},
+{"id":9,"name":"Pine snake (unidentified)","category":"Purple"},
+{"id":10,"name":"Possum, golden brush-tailed","category":"Khaki"},
+{"id":11,"name":"Long-billed cockatoo","category":"Blue"},
+{"id":12,"name":"Lion, australian sea","category":"Blue"},
+{"id":13,"name":"Nilgai","category":"Violet"},
+{"id":14,"name":"Brown hyena","category":"Fuscia"},
+{"id":15,"name":"Lizard, mexican beaded","category":"Yellow"},
+{"id":16,"name":"Cormorant, great","category":"Puce"},
+{"id":17,"name":"Wild turkey","category":"Purple"},
+{"id":18,"name":"Phascogale, red-tailed","category":"Green"},
+{"id":19,"name":"Whale, southern right","category":"Pink"},
+{"id":20,"name":"Racer snake","category":"Orange"}
+
+]   
+
+}
